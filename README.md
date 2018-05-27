@@ -1,2 +1,2 @@
 # AlphRep151114
-First repository, starting point
+Working version of vagrant box consist of Ubuntu 12.04 LTS
